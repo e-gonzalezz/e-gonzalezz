@@ -6,6 +6,8 @@
   <a href="https://github.com/Srishti44-g"><img src="https://img.shields.io/github/followers/e-gonzalezz?label=GitHub&style=social" /></a>
   <a href="https://www.linkedin.com/in/elizabethgonzalez"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
   <a href="mailto:elyglez05@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://e-gonzalezz.github.io/portfolio/#/"><img src="https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=flat&logo=google-chrome" /></a>
+</p>
 </p>
 
 
