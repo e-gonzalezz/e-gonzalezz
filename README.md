@@ -1,6 +1,6 @@
 <h1 align="center">HI there, I'm Elizabeth Gonzalez :)⋆˚࿔</h1><h1><UNIVERSE AI</h1>
 <p align="center">
-  <b>Researcher | Software Engineer | Game Developer | Full Stack Developer | Open Source Contributor </b>  
+  <b>Researcher | Software Engineer | Game Developer | Open Source Contributor </b>  
 </p>
 <p align="center">
   <a href="https://github.com/Srishti44-g"><img src="https://img.shields.io/github/followers/e-gonzalezz?label=GitHub&style=social" /></a>
